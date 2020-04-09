@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="665d954c-4db2-4ab5-b136-27f47e6d7533" name="Default Changelist" comment="" />
+    <list default="true" id="665d954c-4db2-4ab5-b136-27f47e6d7533" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoketest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/weborders/pages/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/weborders/pages/ViewAllOrdersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/weborders/pages/ViewAllProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/weborders/tests/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/weborders/tests/SmokeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/weborders/pages/AbstractBasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/weborders/pages/AbstractBasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/weborders/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/weborders/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/weborders/tests/AbstractBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/weborders/tests/AbstractBaseTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +39,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1a834ln4RmH6hVW7So029cPyxnT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -45,6 +64,61 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="TestNG.C:/Users/yekel/IdeaProjects/WebOrdersAutomation2020/smoketest.xml">
+    <configuration name="C:/Users/yekel/IdeaProjects/WebOrdersAutomation2020/smoketest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebOrdersAutomation2020" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/smoketest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebOrdersAutomation2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weborders.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weborders.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.weborders.tests.LoginTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest.smokeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebOrdersAutomation2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weborders.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weborders.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.weborders.tests.SmokeTest" />
+      <option name="METHOD_NAME" value="smokeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/yekel/IdeaProjects/WebOrdersAutomation2020/smoketest.xml" />
+        <item itemvalue="TestNG.SmokeTest.smokeTest" />
+        <item itemvalue="TestNG.LoginTest.login" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,5 +131,27 @@
       <updated>1586103204292</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/weborders/tests/SmokeTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
